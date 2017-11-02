@@ -10,6 +10,7 @@ websockets instead of Ajax and hence better response time.
 [hterm source](https://chromium.googlesource.com/apps/libapps/+/master/hterm/)
 
 ![Wetty](/terminal.png?raw=true)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbutlerx%2Fwetty.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbutlerx%2Fwetty?ref=badge_shield)
 
 This fork has a few of the open PR's from the original merged in as well as scripts to make running
 in docker better.
@@ -167,3 +168,7 @@ Wetty supports all browsers that Google's hterm supports. Wetty has been [report
 ### Why isn't Wetty working with IE?
 
 [This fix](https://stackoverflow.com/questions/13102116/access-denied-for-localstorage-in-ie10#20848924) has been known to help some users.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbutlerx%2Fwetty.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbutlerx%2Fwetty?ref=badge_large)
